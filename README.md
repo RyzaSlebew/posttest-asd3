@@ -1,4 +1,3 @@
-# posttest-asd3
 # PENJELASAN
 ##
 Program manajemen data mahasiswa sederhana menggunakan penerapan linked list untuk menyimpan dan mengelola data mahasiswa. Linked list merupakan struktur data linier yang terdiri dari sejumlah elemen atau node yang saling terhubung satu sama lain melalui pointer. Setiap node pada linked list berisi data dan pointer ke node berikutnya.
